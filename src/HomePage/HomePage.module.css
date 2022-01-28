@@ -1,0 +1,10 @@
+.homeImage {
+    background-color: black;
+    background-image: url("./monomount.jpeg");
+    height: 100%;
+    width: 100%;
+}
+
+.flexGrow {
+    flex-grow: 1;
+}
