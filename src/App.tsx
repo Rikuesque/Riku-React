@@ -1,5 +1,5 @@
-import InvertButton from './Components/InvertButton';
-import Navigation from './Components/Navigation';
+import {InvertButton} from './Components/Components_2';
+import {Navigation} from './Components/Components_2';
 import HomePage from './HomePage/HomePage';
 
 function App() {
